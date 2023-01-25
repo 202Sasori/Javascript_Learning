@@ -1,0 +1,21 @@
+Các lệnh cơ bản trong Git
+
+git init
+git clone
+git pull
+
+
+git add và git add .
+git commit
+git push
+
+git log
+git log - decorate - graph - oneline
+
+git branch
+git checkout
+git merge
+
+Nâng cao
+git rebase
+git cherry-pick
