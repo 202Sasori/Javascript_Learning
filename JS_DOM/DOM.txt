@@ -1,0 +1,7 @@
+DOM Document Object Model (DOM) là biểu diễn dữ liệu của những đối tượng kết hợp 
+với cấu trúc và nội dung của một tài liệu (document) trên web.
+
+Document Object Model (DOM) là một ngôn ngữ giao diện (programming interface) cho web documents.
+Nó hiển thị trang do đó nó có thể thay đổi cấu trúc(structure), kiểu (style) và nội dung (content).
+DOM hiển thị tài liệu (document) như nodes và đối tượng (objects);
+từ đó, ngôn ngữ có thể tương tác với trang
